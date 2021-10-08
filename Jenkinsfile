@@ -7,7 +7,7 @@ pipeline {
         
     stage('Git') {
       steps {
-        git 'https://github.com/****/****'
+        git 'https://github.com/l_bounif@esi.dz/072fa885-010d-4e2b-8b19-fbe1e8554fb4'
       }
     }
      
